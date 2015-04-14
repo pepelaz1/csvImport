@@ -1,0 +1,1 @@
+C# library for serialization a list of objects into CSV file with a couple of Unit tests
